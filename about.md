@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is going to act as a virtual lab journal for my Honours Project work.  
 
-### More Information
+The working title of my project is: _"Investigating Crossover Operators for a Genetic Programming Model Based on Gene Regulatory Networks"_
 
-A place to include any other types of information that you'd like to include about yourself.
+My supervisor is Dr. Parimala Thulasiraman.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pulgarvn@myumanitoba.ca](mailto:pulgarvn@myumanitoba.ca)
