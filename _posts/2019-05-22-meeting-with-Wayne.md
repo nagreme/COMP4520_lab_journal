@@ -19,6 +19,7 @@ We went over some of the key concepts and ideas of the 2 papers I've read more c
 We also went over the current Python version of the GRN code (https://github.com/umfranzw/grn-crossover). Notes:
 
 - `simulate.py` does the initial random setup then runs the simulation (bind, produce, diffuse, then decay, repeat for set number of simulation steps)
+- see `grn.py` for the implementation of the different steps
 - see `Config.py` for meta parameters like population size, simulation steps, etc.
 - proteins are encoded as bitarrays (current length is 4), where the most significant bit determines if the protein is internal (binds to genes) or an output protein (determines resulting program)
 - protein dictionaries are hashed by protein encoding but bitarrays are variable and can't be hashed so we have to convert them to string representations first to use them as dict keys
