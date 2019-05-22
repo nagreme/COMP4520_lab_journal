@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Hello world!
+title: Meeting with Wayne
 ---
-
-# Meeting with Wayne #
 
 ### Papers
 
