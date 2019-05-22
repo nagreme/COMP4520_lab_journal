@@ -14,7 +14,7 @@ We went over some of the key concepts and ideas of the 2 papers I've read more c
 
 ### Code Base
 
-We also went over the current Python version of the GRN code (https://github.com/umfranzw/grn-crossover). Notes:
+We also went over the current Python version of the GRN code [repo](https://github.com/umfranzw/grn-crossover). Notes:
 
 - `simulate.py` does the initial random setup then runs the simulation (bind, produce, diffuse, then decay, repeat for set number of simulation steps)
 - see `grn.py` for the implementation of the different steps
