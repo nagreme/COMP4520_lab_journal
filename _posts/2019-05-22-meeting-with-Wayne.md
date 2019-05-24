@@ -46,5 +46,3 @@ So would having a metric to evaluate the crossover operator being tested.
 I will write up summaries of the papers I've read and post those (retroactively perhaps). Assigned by Dr. Thulasiraman.
 
 Next meeting with Wayne will be 2019-05-30 @2pm.
-
-I will get a key for the lab at some point, next week hopefully?
