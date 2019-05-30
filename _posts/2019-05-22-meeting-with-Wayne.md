@@ -43,4 +43,6 @@ I will need a way to select the parents too.
 Having a way to pull out the chain of interactions would be useful.
 So would having a metric to evaluate the crossover operator being tested.
 
+I'll keep working on paper summaries in the mean time.
+
 Next meeting with Wayne will be 2019-05-30 @2pm.
