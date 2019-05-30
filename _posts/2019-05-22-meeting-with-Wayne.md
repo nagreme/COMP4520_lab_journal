@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting with Wayne
+title: Meeting with Wayne (May 22nd)
 ---
 
 ### Papers
