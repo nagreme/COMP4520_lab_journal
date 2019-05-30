@@ -9,7 +9,7 @@ The first step is to implement a standard single-point crossover operator to hav
 
 ### Basic Outline of Standard Crossover Operator
 
-##### Selection (see `sim.select_parents` function):
+#### Selection (see `sim.select_parents` function):
 
 Params: population list (of Grn objects)  
 Returns: the 2 selected parent (Grn objects), not necessarily different
@@ -18,7 +18,7 @@ Returns: the 2 selected parent (Grn objects), not necessarily different
 
 - This means that fitter individuals are more likely to be chosen as parents but not guaranteed.
 
-##### Crossover (see `sim.std_crossover` function)
+#### Crossover (see `sim.std_crossover` function)
 
 Params: population list (of Grn objects)  
 Returns: the 2 children (Grn objects)
