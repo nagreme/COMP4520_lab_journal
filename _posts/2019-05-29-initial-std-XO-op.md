@@ -7,7 +7,7 @@ Wayne let me know he finished the code on 2019-05-24! I forked the repository: m
 
 The first step is to implement a standard single-point crossover operator to have a baseline/point of reference for the new crossover operator.
 
-#### Basic Outline of Standard Crossover Operator
+### Basic Outline of Standard Crossover Operator
 
 ##### Selection (see `sim.select_parents` function):
 
@@ -29,7 +29,7 @@ Returns: the 2 children (Grn objects)
 
 - Note: no need to adjust gene indices since the number of genes is constant in the model currently and the crossover is not unequal
 
-#### Current Issues/Conundrums
+### Current Issues/Conundrums
 
 - I'm not deep copying the gene objects given to the children (simpler implementations this way for now), so the children also get the bound proteins from their parents. Should we create new gene objects and overwrite their default attributes, simply set the bound proteins to None (affecting children and parents), or something else?
 
@@ -39,7 +39,7 @@ Returns: the 2 children (Grn objects)
 
 - (Related to above point) I might need to change some split index selections (some edge cases may result in no crossing over currently)
 
-#### Misc. Changes and Additions
+### Misc. Changes and Additions
 
 - I added both `__repr__()` and `__str__()` methods to the Grn, Gene, and Protein classes in their respective files.
 
