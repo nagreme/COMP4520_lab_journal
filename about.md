@@ -8,6 +8,8 @@ This blog is a fork of Jekyll-now using GitHub Pages and is going to act as a vi
 
 The working title of my project is: _"Investigating Crossover Operators for a Genetic Programming Model Based on Gene Regulatory Networks"_
 
+GitHub repository [here](https://github.com/nagreme/grn-crossover-COMP4520).
+
 My supervisor is Dr. Parimala Thulasiraman at the University of Manitoba, Faculty of Science, Department of Computer Science.
 
 ### Contact me
