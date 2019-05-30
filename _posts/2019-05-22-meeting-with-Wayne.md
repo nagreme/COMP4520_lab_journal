@@ -38,11 +38,9 @@ We also went over the current Python version of the GRN code [repo](https://gith
 Once Wayne finishes porting the relevant parts of his C++ code base to Python I'll fork the GitHub repo and start working on implementing a standard single point crossover operator.
 This will probably involved splitting and crossing the parents gene lists and their initial proteins.
 Gene paramters like bind threshold and production rate can simply be averaged for now.
-I will need a way to select the parents too. 
+I will need a way to select the parents too.
 
-Having a way to pull out the chain of interactions would be useful. 
+Having a way to pull out the chain of interactions would be useful.
 So would having a metric to evaluate the crossover operator being tested.
-
-I will write up summaries of the papers I've read and post those (retroactively perhaps). Assigned by Dr. Thulasiraman.
 
 Next meeting with Wayne will be 2019-05-30 @2pm.
