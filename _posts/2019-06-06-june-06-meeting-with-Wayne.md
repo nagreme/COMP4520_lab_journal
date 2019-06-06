@@ -3,9 +3,9 @@ layout: post
 title: Meeting with Wayne (June 6th)
 ---
 
-### Meeting notes:
+### Meeting Notes:
 
-- I will use a digraph to map the interaction in the network as they're happening, likely using the [NetworkX package](https://networkx.github.io/).
+- I will use a digraph to map the interaction in the network as they're happening, likely using the [NetworkX](https://networkx.github.io/) package.
 
 - The relationships we care about not breaking are the input to output protein relationships. Evaluation of the crossover operators will be based around that.
 
@@ -15,13 +15,13 @@ title: Meeting with Wayne (June 6th)
 
 ---
 
-### Other note:  
+### Misc :  
 
 - I refactored the crossover code into its own file to make it cleaner and more manageable.
 
 ---
 
-### Next steps:
+### Next Steps:
 
 - Implement interaction graphs
 - Think about how to implement the new crossover operator, maybe using the interaction graphs?
