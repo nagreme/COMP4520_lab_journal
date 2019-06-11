@@ -18,6 +18,6 @@ For some reasons I can't get the fitness to print in a fixed location on the fig
 Here are some examples:
 
 <img src="{{ site.baseurl }}/images/fit_10.png"/>
-<img src="{{ site.baseurl }}/images/Figure_1.png"/>
+<img src="{{ site.baseurl }}/images/Figure_5.png"/>
 <img src="{{ site.baseurl }}/images/Figure_6.png"/>
 <img src="{{ site.baseurl }}/images/fit_5.png"/>
