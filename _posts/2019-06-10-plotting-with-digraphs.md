@@ -11,6 +11,8 @@ I've used the NetworkX DiGraph object to create edges for bind and produce event
 - Blue is used for internal proteins and genes  
 - Green is used for output proteins
 
+The gene nodes are displaying their binding sequence since the edges towards protein imply their production sequence.
+
 The layout I'm using for drawing the graph might look oddly triangular and create longer edges but it provides better spacing between nodes improving readability.
 
 For some reasons I can't get the fitness to print in a fixed location on the figure
