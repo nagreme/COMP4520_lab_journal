@@ -9,17 +9,17 @@ This meeting was mostly spent discussing ideas for the new crossover operator.
 
 Wayne mentioned a few different ideas:
 
-- Build a Markov model/generator from two parents and use it to generate one or more children
+___Build a Markov model/generator from two parents and use it to generate one or more children___
 
-_Sounds very cool but more complicated than my remaining time allows I think._
+- Sounds very cool but more complicated than my remaining time allows I think.
 
-- An incremental approach: merge/cross parents (build the children) gene by gene
+___An incremental approach: merge/cross parents (build the children) gene by gene___
 
-_Seems feasible but I'm not sure how to implement it this way while considering all the interactions. Will keep it in mind._
+- Seems feasible but I'm not sure how to implement it this way while considering all the interactions. Will keep it in mind.
 
-- Merging two parent graphs and cutting off excess
+___Merging two parent graphs and cutting off excess___
 
-_Also interesting, I have the same concerns as for the other ideas although to a lesser extent. Will also keep in mind._
+- Also interesting, I have the same concerns as for the other ideas although to a lesser extent. Will also keep in mind.
 
 We had also considered using graph algorithms to find isomorphic subgraphs and swapping those somehow, but Wayne did some research and found that these algorithms tend to have high complexity and some even recommend using GAs to accomplish their task.
 
